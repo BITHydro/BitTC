@@ -1,2 +1,2 @@
 # IDM
-Inverse Design Method for Blade of turbomachinery
+Inverse Design Method for TCBlade
